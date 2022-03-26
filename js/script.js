@@ -4,7 +4,7 @@
 // Created on: March 2022
 // This file contains the JS functions for index.html
 
-'use strict'
+"use strict"
 
 // declare constants
 const TAX_BRACKET = 0.1805
